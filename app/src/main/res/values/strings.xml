@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PhoneThrowApp</string>
+    <string name="current_speed">Speed</string>
+</resources>
