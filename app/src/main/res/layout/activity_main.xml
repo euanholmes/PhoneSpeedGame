@@ -38,12 +38,11 @@
             app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
-            android:id="@+id/textView6"
+            android:id="@+id/txtHighScore"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginTop="88dp"
             android:fontFamily="@font/fira_mono"
-            android:text="86.5 m/s"
             android:textColor="#F662D1"
             android:textSize="24sp"
             android:textStyle="bold"
